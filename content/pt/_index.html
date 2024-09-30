@@ -7,7 +7,7 @@ url: "/pt/"
 hugo:
   permalink: "/pt/"
   file: "content/pt/_index.html"
-  path: "/pt/"
+  path: ""
   slug: ""
 
 breadcrumbs:
@@ -30,16 +30,17 @@ bodyclass: >-
 
 
 children:
+  - "authors/_index.html"
   - "pages/qui-sommes-nous/_index.html"
-  - "persons/_index.html"
   - "pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/_index.html"
   - "pages/o-que-e-maquinas-do-dia-a-dia-versao-difficil/_index.html"
+  - "persons/_index.html"
   - "projects/_index.html"
   - "organizations/_index.html"
   - "pages/cordeis-1/_index.html"
   - "pages/cordeis-2/_index.html"
-  - "events/_index.html"
   - "posts/_index.html"
+  - "events/_index.html"
 meta_description: >-
   O agronegócio no Brasil é um setor em crescimento, apoiado pela colaboração entre cientistas e atores da indústria agrícola. Os cientistas desempenham um papel crucial ao fornecer conhecimentos para melhorar as práticas agrícolas, otimizar os rendimentos e desenvolver novas tecnologias. Graças à sua contribuição, o agronegócio brasileiro se tornou um dos maiores do mundo, com uma produção agrícola diversificada e uma forte presença nos mercados internacionais. No entanto, esta expansão não está isenta de consequências. A pressão sobre os recursos naturais, a desflorestação e os desequilíbrios ambientais são desafios que o agronegócio brasileiro enfrenta. É, portanto, essencial que os cientistas continuem a trabalhar em conjunto com os atores da indústria para encontrar soluções sustentáveis e preservar o equilíbrio entre crescimento econômico e preservação ambiental.
 
@@ -62,7 +63,7 @@ contents:
     title: >-
       O agronegócio no Brasil
     slug: "o-agronegocio-no-brasil"
-    position: 0
+    position: 1
     rank: 2
   - kind: block
     template: video
@@ -124,6 +125,7 @@ contents:
       Rape mandioca
     ranks:
       self: 3
+      children: 4
     data:
       mode: selection
       layout: large
@@ -134,6 +136,8 @@ contents:
         year: true
 
       projects:
+        - slug: "machines"
+          file: "projects/2024-machines.html"
 
 
   - kind: block
@@ -166,7 +170,7 @@ contents:
     ranks:
       self: 3
     data:
-      page: 
+      page:
         path: "/pt/organisations/"
         slug: "organisations"
         file: "organizations/_index.html"
