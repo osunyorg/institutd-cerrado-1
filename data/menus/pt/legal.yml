@@ -1,4 +1,20 @@
 ---
 title: Informations légales
-items: []
+items:
+- title: Mentions légales
+  target: "/pt/mentions-legales/"
+  kind: page
+  children: []
+- title: Politique de confidentialité
+  target: "/pt/politique-de-confidentialite/"
+  kind: page
+  children: []
+- title: Accessibilité
+  target: "/pt/accessibilite/"
+  kind: page
+  children: []
+- title: Plan du site
+  target: "/pt/plan-du-site/"
+  kind: page
+  children: []
 
