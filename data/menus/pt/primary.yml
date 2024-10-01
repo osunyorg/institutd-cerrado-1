@@ -46,28 +46,4 @@ items:
   target: "/pt/agenda/"
   kind: page
   children: []
-- title: Diplômes
-  target: "/pt/diplomes/"
-  kind: page
-  children: []
-- title: Formations
-  target: "/pt/formations/"
-  kind: page
-  children: []
-- title: Volumes
-  target: "/pt/volumes/"
-  kind: page
-  children: []
-- title: Papiers
-  target: "/pt/papiers/"
-  kind: page
-  children: []
-- title: Publications HAL
-  target: "/pt/publications/"
-  kind: page
-  children: []
-- title: Campus
-  target: "/pt/campus/"
-  kind: page
-  children: []
 
