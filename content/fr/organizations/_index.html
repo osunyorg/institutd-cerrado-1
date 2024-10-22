@@ -54,19 +54,27 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Les poèmes du Brésil
-    slug: "les-poemes-du-bresil"
-    position: 1
-    rank: 2
+    slug: >-
+      les-poemes-du-bresil
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: pages
     title: >-
-      Cordéis
+      
+    slug: >-
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       page:
         path: "/fr/organisations/"
@@ -93,6 +101,8 @@ contents:
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -116,6 +126,8 @@ contents:
     template: call_to_action
     title: >-
       Partager
+    slug: >-
+      partager
     ranks:
       self: 3
     data:
@@ -145,6 +157,8 @@ contents:
     template: call_to_action
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -167,7 +181,6 @@ contents:
             https://cerrado-1.institutd.osuny.site/fr/organisations/
 
           target_blank: false
-
 
 
 

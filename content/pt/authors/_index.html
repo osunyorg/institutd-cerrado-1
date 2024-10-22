@@ -51,20 +51,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 41
+  seconds: 46
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Equipa
-    slug: "equipa"
-    position: 1
-    rank: 2
+    slug: >-
+      equipa
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
       Promotores de projecto
+    slug: >-
+      promotores-de-projecto
     ranks:
       self: 3
       children: 4
@@ -92,6 +100,8 @@ contents:
     template: persons
     title: >-
       Participantes no projeto SARDYN
+    slug: >-
+      participantes-no-projeto-sardyn
     ranks:
       self: 3
       children: 4
@@ -135,6 +145,8 @@ contents:
     template: chapter
     title: >-
       Laboratório que gere a subvenção
+    slug: >-
+      laboratorio-que-gere-a-subvencao
     ranks:
       self: 3
     data:
@@ -158,6 +170,8 @@ contents:
     template: chapter
     title: >-
       GT Portadores
+    slug: >-
+      gt-portadores
     ranks:
       self: 3
     data:
@@ -181,6 +195,8 @@ contents:
     template: organizations
     title: >-
       Partenaires
+    slug: >-
+      partenaires
     ranks:
       self: 3
     data:
@@ -242,7 +258,6 @@ contents:
 
           logo: "e77e95f3-1ef0-4ae4-a48a-3d05711af16c"
           external: true
-
 
 
 

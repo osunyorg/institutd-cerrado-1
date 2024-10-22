@@ -54,20 +54,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 42
+  seconds: 46
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       L'équipe
-    slug: "l-equipe"
-    position: 1
-    rank: 2
+    slug: >-
+      l-equipe
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
       Porteurs de projet
+    slug: >-
+      porteurs-de-projet
     ranks:
       self: 3
       children: 4
@@ -95,6 +103,8 @@ contents:
     template: persons
     title: >-
       Participants au projet SARDYN
+    slug: >-
+      participants-au-projet-sardyn
     ranks:
       self: 3
       children: 4
@@ -138,6 +148,8 @@ contents:
     template: chapter
     title: >-
       Laboratoire gestionnaire de la subvention
+    slug: >-
+      laboratoire-gestionnaire-de-la-subvention
     ranks:
       self: 3
     data:
@@ -161,6 +173,8 @@ contents:
     template: chapter
     title: >-
       GT Porteurs
+    slug: >-
+      gt-porteurs
     ranks:
       self: 3
     data:
@@ -184,6 +198,8 @@ contents:
     template: organizations
     title: >-
       Partenaires
+    slug: >-
+      partenaires
     ranks:
       self: 3
     data:
@@ -251,6 +267,8 @@ contents:
     template: call_to_action
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -273,7 +291,6 @@ contents:
             https://cerrado-1.institutd.osuny.site/fr/equipe-editoriale/
 
           target_blank: false
-
 
 
 

@@ -52,15 +52,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Os poemas do Brasil
-    slug: "os-poemas-do-brasil"
-    position: 1
-    rank: 2
+    slug: >-
+      os-poemas-do-brasil
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -84,10 +92,12 @@ contents:
   - kind: block
     template: pages
     title: >-
-      Cordéis
+      
+    slug: >-
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       page:
         path: "/pt/organisations/"
@@ -114,6 +124,8 @@ contents:
     template: call_to_action
     title: >-
       Partilhar
+    slug: >-
+      partilhar
     ranks:
       self: 3
     data:
@@ -142,6 +154,8 @@ contents:
   - kind: block
     template: call_to_action
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -181,7 +195,6 @@ contents:
             
 
           target_blank: false
-
 
 
 
