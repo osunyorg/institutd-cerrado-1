@@ -5,6 +5,7 @@ items:
   target: "/fr/equipe-editoriale/"
   kind: page
   children: []
+  file: content/fr/authors/_index.html
 - title: Le projet
   target: ''
   kind: blank
@@ -13,20 +14,25 @@ items:
     target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     children: []
+    file: content/fr/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/_index.html
   - title: De quoi ça parle ? (version Universitaire)
     target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     children: []
+    file: content/fr/pages/presentation-du-projet-maquinas-do-dia-a-dia/_index.html
 - title: Portraits
   target: "/fr/equipe/"
   kind: page
   children: []
+  file: content/fr/persons/_index.html
 - title: Machines
   target: "/fr/machines/"
   kind: page
   children: []
+  file: content/fr/projects/_index.html
 - title: Cordéis
   target: "/fr/organisations/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 
