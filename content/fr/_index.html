@@ -4,13 +4,14 @@ breadcrumb_title: >-
 title: >-
   Accueil
 url: "/fr/"
+slug: ""
 date: 2024-04-04T11:39:46+02:00
 lastmod: 2024-09-29T10:31:48+02:00
 meta:
   hugo:
     permalink: "/fr/"
+    path: "/"
     file: "content/fr/_index.html"
-    path: ""
     slug: ""
   dates:
     created_at: 2024-04-04T11:39:46+02:00
@@ -135,8 +136,10 @@ contents:
         year: true
 
       projects:
-        - slug: "machines"
-          file: "projects/2024-machines.html"
+        - permalink: "/fr/machines/2024-machines/"
+          path: "/projects/2024-machines"
+          slug: "machines"
+          file: "content/fr/projects/2024-machines.html"
 
 
   - kind: block
@@ -174,9 +177,10 @@ contents:
       self: 3
     data:
       page:
-        path: "/fr/organisations/"
+        permalink: "/fr/organisations/"
+        path: "/organizations"
         slug: "organisations"
-        file: "organizations/_index.html"
+        file: "content/fr/organizations/_index.html"
       options:
         image: false
         main_summary: false
@@ -184,6 +188,7 @@ contents:
 
       layout: large
       pages:
+
 
 
   - kind: block
