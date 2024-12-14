@@ -9,52 +9,63 @@ items:
     target: "/pt/qui-sommes-nous/formulaire-de-contact/"
     kind: page
     children: []
+    path: "/pages/qui-sommes-nous/formulaire-de-contact"
     file: content/pt/pages/qui-sommes-nous/formulaire-de-contact/_index.html
+  path: "/pages/qui-sommes-nous"
   file: content/pt/pages/qui-sommes-nous/_index.html
 - title: O que é Máquinas do dia a dia ? (versão simples)
   target: "/pt/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
   kind: page
   children: []
+  path: "/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise"
   file: content/pt/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/_index.html
 - title: O que é Máquinas do dia a dia ? (versão universitária )
   target: "/pt/o-que-e-maquinas-do-dia-a-dia-versao-difficil/"
   kind: page
   children: []
+  path: "/pages/o-que-e-maquinas-do-dia-a-dia-versao-difficil"
   file: content/pt/pages/o-que-e-maquinas-do-dia-a-dia-versao-difficil/_index.html
 - title: Retratos
   target: "/pt/equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/pt/persons/_index.html
 - title: Máquinas
   target: "/pt/projets/"
   kind: page
   children: []
+  path: "/projects"
   file: content/pt/projects/_index.html
 - title: Cordéis
   target: "/pt/organisations/"
   kind: page
   children: []
+  path: "/organizations"
   file: content/pt/organizations/_index.html
 - title: O furo que dava de comer para o borrachero mais que ao mesmo tempo queria
     mata-lo
   target: "/pt/cordeis-1/"
   kind: page
   children: []
+  path: "/pages/cordeis-1"
   file: content/pt/pages/cordeis-1/_index.html
 - title: O animal que precisava comer banana para não querer comer os correntinos
   target: "/pt/cordeis-2/"
   kind: page
   children: []
+  path: "/pages/cordeis-2"
   file: content/pt/pages/cordeis-2/_index.html
 - title: Notícias
   target: "/pt/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/pt/posts/_index.html
 - title: Calendário
   target: "/pt/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/pt/events/_index.html
 
