@@ -4,10 +4,12 @@ items:
 - title: Quem somos ?
   target: "/pt/qui-sommes-nous/"
   kind: page
+  new_tab: false
   children:
   - title: Formulário de contacto
     target: "/pt/qui-sommes-nous/formulaire-de-contact/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/qui-sommes-nous/formulaire-de-contact"
     file: content/pt/pages/qui-sommes-nous/formulaire-de-contact/_index.html
@@ -16,30 +18,35 @@ items:
 - title: O que é Máquinas do dia a dia ? (versão simples)
   target: "/pt/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise"
   file: content/pt/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/_index.html
 - title: O que é Máquinas do dia a dia ? (versão universitária )
   target: "/pt/o-que-e-maquinas-do-dia-a-dia-versao-difficil/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/o-que-e-maquinas-do-dia-a-dia-versao-difficil"
   file: content/pt/pages/o-que-e-maquinas-do-dia-a-dia-versao-difficil/_index.html
 - title: Retratos
   target: "/pt/equipe/"
   kind: page
+  new_tab: false
   children: []
   path: "/persons"
   file: content/pt/persons/_index.html
 - title: Máquinas
   target: "/pt/projets/"
   kind: page
+  new_tab: false
   children: []
   path: "/projects"
   file: content/pt/projects/_index.html
 - title: Cordéis
   target: "/pt/organisations/"
   kind: page
+  new_tab: false
   children: []
   path: "/organizations"
   file: content/pt/organizations/_index.html
@@ -47,24 +54,28 @@ items:
     mata-lo
   target: "/pt/cordeis-1/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/cordeis-1"
   file: content/pt/pages/cordeis-1/_index.html
 - title: O animal que precisava comer banana para não querer comer os correntinos
   target: "/pt/cordeis-2/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/cordeis-2"
   file: content/pt/pages/cordeis-2/_index.html
 - title: Notícias
   target: "/pt/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/pt/posts/_index.html
 - title: Calendário
   target: "/pt/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/pt/events/_index.html
