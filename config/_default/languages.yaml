@@ -80,7 +80,7 @@ pt:
 
   permalinks:
     events: /agenda/:year/:slug/
-    exhibitions: /:year-:month-:day-:slug/
+    exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     projects: /projets/:year-:slug/
