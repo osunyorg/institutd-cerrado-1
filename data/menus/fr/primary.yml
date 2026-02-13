@@ -2,50 +2,66 @@
 title: Menu principal
 items:
 - title: Qui sommes-nous ?
+  slug: qui-sommes-nous
   target: "/fr/equipe-editoriale/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/authors"
   file: content/fr/authors/_index.html
 - title: Le projet
+  slug: le-projet
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: De quoi ça parle ? (version simple)
+    slug: de-quoi-ca-parle-version-simple
     target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise"
     file: content/fr/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/_index.html
   - title: De quoi ça parle ? (version Universitaire)
+    slug: de-quoi-ca-parle-version-universitaire
     target: "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/presentation-du-projet-maquinas-do-dia-a-dia"
     file: content/fr/pages/presentation-du-projet-maquinas-do-dia-a-dia/_index.html
+  descendants_targets:
+  - "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+  - "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
 - title: Portraits
+  slug: portraits
   target: "/fr/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Machines
+  slug: machines
   target: "/fr/machines/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Cordéis
+  slug: cordeis
   target: "/fr/organisations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 

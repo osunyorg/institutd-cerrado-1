@@ -2,88 +2,113 @@
 title: Menu principal
 items:
 - title: Quem somos ?
+  slug: quem-somos
   target: "/pt/qui-sommes-nous/"
   kind: page
   new_tab: false
   children:
   - title: Formulário de contacto
+    slug: formulario-de-contacto
     target: "/pt/qui-sommes-nous/formulaire-de-contact/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/qui-sommes-nous/formulaire-de-contact"
     file: content/pt/pages/qui-sommes-nous/formulaire-de-contact/_index.html
+  descendants_targets:
+  - "/pt/qui-sommes-nous/formulaire-de-contact/"
   path: "/pages/qui-sommes-nous"
   file: content/pt/pages/qui-sommes-nous/_index.html
 - title: O que é Máquinas do dia a dia ? (versão simples)
+  slug: o-que-e-maquinas-do-dia-a-dia-versao-simples
   target: "/pt/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise"
   file: content/pt/pages/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/_index.html
 - title: O que é Máquinas do dia a dia ? (versão universitária )
+  slug: o-que-e-maquinas-do-dia-a-dia-versao-universitaria
   target: "/pt/o-que-e-maquinas-do-dia-a-dia-versao-difficil/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/o-que-e-maquinas-do-dia-a-dia-versao-difficil"
   file: content/pt/pages/o-que-e-maquinas-do-dia-a-dia-versao-difficil/_index.html
 - title: Retratos
+  slug: retratos
   target: "/pt/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/pt/persons/_index.html
 - title: Máquinas
+  slug: maquinas
   target: "/pt/projets/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/pt/projects/_index.html
 - title: Cordéis
+  slug: cordeis
   target: "/pt/organisations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/pt/organizations/_index.html
 - title: O furo que dava de comer para o borrachero mais que ao mesmo tempo queria
     mata-lo
+  slug: o-furo-que-dava-de-comer-para-o-borrachero-mais-que-ao-mesmo-tempo-queria-mata-lo
   target: "/pt/cordeis-1/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/cordeis-1"
   file: content/pt/pages/cordeis-1/_index.html
 - title: O animal que precisava comer banana para não querer comer os correntinos
+  slug: o-animal-que-precisava-comer-banana-para-nao-querer-comer-os-correntinos
   target: "/pt/cordeis-2/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/cordeis-2"
   file: content/pt/pages/cordeis-2/_index.html
 - title: Notícias
+  slug: noticias
   target: "/pt/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/pt/posts/_index.html
 - title: Calendário
+  slug: calendario
   target: "/pt/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/pt/events/_index.html
 - title: Expositions
+  slug: expositions
   target: "/pt/expositions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/exhibitions"
   file: content/pt/exhibitions/_index.html
 
