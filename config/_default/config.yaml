@@ -1,17 +1,15 @@
 theme: osuny
 _merge: deep
 params:
-  summary:
-    position: hero
+  logo:
+    footer: "/assets/images/LogoMaquinas2.svg"
+    header: "/assets/images/LogoMaquinas2.svg"
   search:
     active: false
-
+  summary:
+    position: hero
 cdnkey: https://osuny-1b4da.kxcdn.com/
 cookie_banner:
   enable: true
   blank: true
   page: https://gdpr.eu/cookies/
-params:
-  logo:
-    header: "/assets/images/LogoMaquinas2.svg"
-    footer: "/assets/images/LogoMaquinas2.svg"
