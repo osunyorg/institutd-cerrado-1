@@ -15,190 +15,190 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/pt/equipe/equipe-editoriale/index.html"
+from = "/pt/equipe/equipe-editoriale/"
 to = "/pt/equipe-editoriale/"
 
 [[redirects]]
-from = "/qui/index.html"
+from = "/qui/"
 to = "/fr/machines/"
 
 [[redirects]]
-from = "/agenda/index.html"
+from = "/agenda/"
 to = "/fr/archives-1/"
 
 [[redirects]]
-from = "/machines/archives/index.html"
+from = "/machines/archives/"
 to = "/fr/archives-1/archives/"
 
 [[redirects]]
-from = "/equipe-editoriale/index.html"
+from = "/equipe-editoriale/"
 to = "/fr/equipe-editoriale/"
 
 [[redirects]]
-from = "/mentions-legales/index.html"
+from = "/mentions-legales/"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/qui/2024-macaco/index.html"
+from = "/qui/2024-macaco/"
 to = "/fr/machines/2024-macaco/"
 
 [[redirects]]
-from = "/fr/cordeis-2-1/index.html"
+from = "/fr/cordeis-2-1/"
 to = "/fr/cordeis-2/"
 
 [[redirects]]
-from = "/qui-sommes-nous/equipe-editoriale/index.html"
+from = "/qui-sommes-nous/equipe-editoriale/"
 to = "/fr/equipe-editoriale/"
 
 [[redirects]]
-from = "/machines/2024-pelle-bulldozer/index.html"
+from = "/machines/2024-pelle-bulldozer/"
 to = "/fr/machines/2024-pelle-bulldozer/"
 
 [[redirects]]
-from = "/qui/2024-benne/index.html"
+from = "/qui/2024-benne/"
 to = "/fr/machines/2024-pelle-bulldozer/"
 
 [[redirects]]
-from = "/archives/index.html"
+from = "/archives/"
 to = "/fr/archives-1/"
 
 [[redirects]]
-from = "/machines/2024-benne/index.html"
+from = "/machines/2024-benne/"
 to = "/fr/machines/2024-pelle-bulldozer/"
 
 [[redirects]]
-from = "/agenda/archives/index.html"
+from = "/agenda/archives/"
 to = "/fr/archives-1/archives/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/fr/archives/archives/index.html"
+from = "/fr/archives/archives/"
 to = "/fr/archives-1/archives/"
 
 [[redirects]]
-from = "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/index.html"
+from = "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
 to = "/pt/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
 
 [[redirects]]
-from = "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia/index.html"
+from = "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
 to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
 
 [[redirects]]
-from = "/organisations/index.html"
+from = "/organisations/"
 to = "/fr/organisations/"
 
 [[redirects]]
-from = "/equipe/index.html"
+from = "/equipe/"
 to = "/fr/equipe/"
 
 [[redirects]]
-from = "/fr/qui-sommes-nous/equipe-editoriale/index.html"
+from = "/fr/qui-sommes-nous/equipe-editoriale/"
 to = "/fr/equipe-editoriale/"
 
 [[redirects]]
-from = "/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/index.html"
+from = "/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
 to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
 
 [[redirects]]
-from = "/machines/2024-macaco/index.html"
+from = "/machines/2024-macaco/"
 to = "/fr/machines/2024-macaco/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/index.html"
+from = "/politique-de-confidentialite/"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/qui/2024-roue-a-manioc/index.html"
+from = "/qui/2024-roue-a-manioc/"
 to = "/fr/machines/2024-roue-a-manioc/"
 
 [[redirects]]
-from = "/machines/2024-roue-a-manioc/index.html"
+from = "/machines/2024-roue-a-manioc/"
 to = "/fr/machines/2024-roue-a-manioc/"
 
 [[redirects]]
-from = "/qui/equipe-editoriale/index.html"
+from = "/qui/equipe-editoriale/"
 to = "/fr/equipe-editoriale/"
 
 [[redirects]]
-from = "/qui/2024-machines/index.html"
+from = "/qui/2024-machines/"
 to = "/fr/machines/2024-machines/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/fr/equipe-editoriale/"
 
 [[redirects]]
-from = "/qui/2024-boite-a-outils/index.html"
+from = "/qui/2024-boite-a-outils/"
 to = "/fr/machines/2024-boite-a-outils/"
 
 [[redirects]]
-from = "/pt/qui-sommes-nous/equipe-editoriale/index.html"
+from = "/pt/qui-sommes-nous/equipe-editoriale/"
 to = "/pt/equipe-editoriale/"
 
 [[redirects]]
-from = "/machines/2024-tracteur/index.html"
+from = "/machines/2024-tracteur/"
 to = "/fr/machines/2024-tracteur/"
 
 [[redirects]]
-from = "/projets/index.html"
+from = "/projets/"
 to = "/fr/machines/"
 
 [[redirects]]
-from = "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/index.html"
+from = "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
 to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
 
 [[redirects]]
-from = "/qui/rape-a-manioc/index.html"
+from = "/qui/rape-a-manioc/"
 to = "/fr/machines/rape-a-manioc/"
 
 [[redirects]]
-from = "/accessibilite/index.html"
+from = "/accessibilite/"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/machines/index.html"
+from = "/machines/"
 to = "/fr/archives-1/"
 
 [[redirects]]
-from = "/archives/archives/index.html"
+from = "/archives/archives/"
 to = "/fr/archives-1/archives/"
 
 [[redirects]]
-from = "/actualites/presentation-du-projet-maquinas-do-dia-a-dia/index.html"
+from = "/actualites/presentation-du-projet-maquinas-do-dia-a-dia/"
 to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
 
 [[redirects]]
-from = "/machines/2024-machines/index.html"
+from = "/machines/2024-machines/"
 to = "/fr/machines/2024-machines/"
 
 [[redirects]]
-from = "/fr/archives/index.html"
+from = "/fr/archives/"
 to = "/fr/archives-1/"
 
 [[redirects]]
-from = "/machines/rape-a-manioc/index.html"
+from = "/machines/rape-a-manioc/"
 to = "/fr/machines/rape-a-manioc/"
 
 [[redirects]]
-from = "/machines/2024-boite-a-outils/index.html"
+from = "/machines/2024-boite-a-outils/"
 to = "/fr/machines/2024-boite-a-outils/"
 
 [[redirects]]
-from = "/machines/2024-banc-de-travail/index.html"
+from = "/machines/2024-banc-de-travail/"
 to = "/fr/machines/2024-banc-de-travail/"
 
 [[redirects]]
-from = "/qui/2024-tracteur/index.html"
+from = "/qui/2024-tracteur/"
 to = "/fr/machines/2024-tracteur/"
 
 [[redirects]]
-from = "/plan-du-site/index.html"
+from = "/plan-du-site/"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/machines/2024-charrue/index.html"
+from = "/machines/2024-charrue/"
 to = "/fr/machines/2024-charrue/"
 
