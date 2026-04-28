@@ -14,3 +14,191 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/pt/equipe/equipe-editoriale/index.html"
+to = "/pt/equipe-editoriale/"
+
+[[redirects]]
+from = "/qui/index.html"
+to = "/fr/machines/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/fr/archives-1/"
+
+[[redirects]]
+from = "/machines/archives/index.html"
+to = "/fr/archives-1/archives/"
+
+[[redirects]]
+from = "/equipe-editoriale/index.html"
+to = "/fr/equipe-editoriale/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/qui/2024-macaco/index.html"
+to = "/fr/machines/2024-macaco/"
+
+[[redirects]]
+from = "/fr/cordeis-2-1/index.html"
+to = "/fr/cordeis-2/"
+
+[[redirects]]
+from = "/qui-sommes-nous/equipe-editoriale/index.html"
+to = "/fr/equipe-editoriale/"
+
+[[redirects]]
+from = "/machines/2024-pelle-bulldozer/index.html"
+to = "/fr/machines/2024-pelle-bulldozer/"
+
+[[redirects]]
+from = "/qui/2024-benne/index.html"
+to = "/fr/machines/2024-pelle-bulldozer/"
+
+[[redirects]]
+from = "/archives/index.html"
+to = "/fr/archives-1/"
+
+[[redirects]]
+from = "/machines/2024-benne/index.html"
+to = "/fr/machines/2024-pelle-bulldozer/"
+
+[[redirects]]
+from = "/agenda/archives/index.html"
+to = "/fr/archives-1/archives/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/fr/archives/archives/index.html"
+to = "/fr/archives-1/archives/"
+
+[[redirects]]
+from = "/pt/projets/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/index.html"
+to = "/pt/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+
+[[redirects]]
+from = "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia/index.html"
+to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/fr/equipe/"
+
+[[redirects]]
+from = "/fr/qui-sommes-nous/equipe-editoriale/index.html"
+to = "/fr/equipe-editoriale/"
+
+[[redirects]]
+from = "/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/index.html"
+to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+
+[[redirects]]
+from = "/machines/2024-macaco/index.html"
+to = "/fr/machines/2024-macaco/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/qui/2024-roue-a-manioc/index.html"
+to = "/fr/machines/2024-roue-a-manioc/"
+
+[[redirects]]
+from = "/machines/2024-roue-a-manioc/index.html"
+to = "/fr/machines/2024-roue-a-manioc/"
+
+[[redirects]]
+from = "/qui/equipe-editoriale/index.html"
+to = "/fr/equipe-editoriale/"
+
+[[redirects]]
+from = "/qui/2024-machines/index.html"
+to = "/fr/machines/2024-machines/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/fr/equipe-editoriale/"
+
+[[redirects]]
+from = "/qui/2024-boite-a-outils/index.html"
+to = "/fr/machines/2024-boite-a-outils/"
+
+[[redirects]]
+from = "/pt/qui-sommes-nous/equipe-editoriale/index.html"
+to = "/pt/equipe-editoriale/"
+
+[[redirects]]
+from = "/machines/2024-tracteur/index.html"
+to = "/fr/machines/2024-tracteur/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/fr/machines/"
+
+[[redirects]]
+from = "/fr/actualites/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/index.html"
+to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia-vulgarise/"
+
+[[redirects]]
+from = "/qui/rape-a-manioc/index.html"
+to = "/fr/machines/rape-a-manioc/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/machines/index.html"
+to = "/fr/archives-1/"
+
+[[redirects]]
+from = "/archives/archives/index.html"
+to = "/fr/archives-1/archives/"
+
+[[redirects]]
+from = "/actualites/presentation-du-projet-maquinas-do-dia-a-dia/index.html"
+to = "/fr/presentation-du-projet-maquinas-do-dia-a-dia/"
+
+[[redirects]]
+from = "/machines/2024-machines/index.html"
+to = "/fr/machines/2024-machines/"
+
+[[redirects]]
+from = "/fr/archives/index.html"
+to = "/fr/archives-1/"
+
+[[redirects]]
+from = "/machines/rape-a-manioc/index.html"
+to = "/fr/machines/rape-a-manioc/"
+
+[[redirects]]
+from = "/machines/2024-boite-a-outils/index.html"
+to = "/fr/machines/2024-boite-a-outils/"
+
+[[redirects]]
+from = "/machines/2024-banc-de-travail/index.html"
+to = "/fr/machines/2024-banc-de-travail/"
+
+[[redirects]]
+from = "/qui/2024-tracteur/index.html"
+to = "/fr/machines/2024-tracteur/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/machines/2024-charrue/index.html"
+to = "/fr/machines/2024-charrue/"
+
